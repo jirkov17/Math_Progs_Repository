@@ -31,8 +31,9 @@
 ![Формулировка ЛР2](https://github.com/user-attachments/assets/56435098-9ca3-4725-9982-cba1f738bfa9)  
 
 **Материалы:**  
-- [Код и отчёт](lab2/) (Jupyter Notebook)  
-- [Графики и анализ](lab2/README.md)  
+- [Код](lab2/lab2.py) (Jupyter Notebook)
+-  
+- [Графики и анализ](lab2/РезультатыПрограммы(2).png)  
 
 ---
 
@@ -41,8 +42,11 @@
 ![Формулировка ЛР3](https://github.com/user-attachments/assets/16d52c00-805c-47f9-9335-b187c9ad9ce7)  
 
 **Материалы:**  
-- [Код и отчёт](lab3/) (Python + Markdown)  
-- [Сравнение методов](lab3/comparison.md)  
+- [Код и отчёт](lab3/lab3.py) (Python + Markdown)  
+- [Сравнение методов](lab3/Результаты1.png)
+- [Сравнение методов](lab3/Результаты2.png)
+- [Сравнение методов](lab3/Результаты3.png)
+- [Вывод](lab3/Вывод.png)
 
 ---
 
@@ -51,10 +55,11 @@
 ![Формулировка курсовой](https://github.com/user-attachments/assets/bb744aef-696d-426b-b901-da66d42a95d7)  
 
 **Структура:**  
-1. [Теоретическая часть](coursework/theory.md)  
-2. [Практическая реализация](coursework/code/)  
-3. [Презентация](coursework/presentation.pdf)  
-
+1. [Теоретическая часть](Final/ResultX.py)  
+2. [Практическая реализация](Final/Final.py)  
+3. [Графики](Final/Графики.png)
+4. [Презентация](Final/Результатывыполнения.png) 
+   расширенная информация в корне папки с работой
 ---
 
 ## 🛠 Как использовать репозиторий
